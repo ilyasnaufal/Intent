@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">intent</string>
+    <string name="hallo">Selamat kamu berhasil berpindah halaman ke Hallo Dicoding</string>
+</resources>
